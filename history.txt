@@ -1,0 +1,51 @@
+    1  nano README.md
+    2  cat README.md
+    3  git status
+    4  git add README.md
+    5  git status
+    6  git commit -m "second commit"
+    7  git log
+    8  nano README.md
+    9  cat README.md
+   10  git status
+   11  git add README.md
+   12  git status
+   13  git commit -m "third commit"
+   14  git status
+   15  git log
+   16  q
+   17  git checkoutcommit 2914d531012ed45a27c7b8a9f0584e46ba873194
+   18  git checkout 2914d531012ed45a27c7b8a9f0584e46ba873194
+   19  cat README.md
+   20  git checkout main
+   21  cat README.md
+   22  git status
+   23  git branch
+   24  git branch milkshake -flavours
+   25  git branch
+   26  git checkout
+   27  git status
+   28  git branch
+   29  git branch milkshake-flavours
+   30  git checkout
+   31  ls
+   32  git branch milkshake-flavours
+   33  git checkout milkshake-flavours
+   34  git branch
+   35  git checkout branch
+   36  git checkout master
+   37  git branch
+   38  git checkout milkshake-flavours
+   39  nano milkshakes.md
+   40  git status
+   41  git add milkshakes.md
+   42  git commit -m "added initial flavours"
+   43  git log
+   44  checkout master
+   45  git checkout master
+   46  git status
+   47  git branch history
+   48  git checkout history
+   49  git log
+   50  git branch
+   51  history>history.txt
